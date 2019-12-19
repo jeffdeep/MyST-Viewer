@@ -1,0 +1,10 @@
+- Are there any lights on?
+- Is the alarm enabled?
+- Is the alarm activated?
+- Who's home now?
+- How long have they been there?
+- Is Arlo online?
+- Is SmartThings online?
+- Is Xfinity online?
+- Are any sensors triggered?
+- Are any doors or windows opened?
